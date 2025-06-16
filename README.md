@@ -1,4 +1,6 @@
-# 👋 Hello, I'm JHASIM HASSAN
+# <div align="center">
+  👋 Hello, I'm <strong>JHASIM HASSAN</strong>
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
@@ -6,7 +8,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Integrated+Web Projects;Generative AI+LLMs;Hackathon+Finalist+%26+Team+Lead;MERN+%2B+Stack+Developer;Passionate+Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Integrated+Web+Projects;Generative+AI+%2B+LLMs;Hackathon+Finalist+%26+Team+Lead;MERN+%2B+Stack+Developer;Passionate+Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,6 +18,7 @@
   <img src="https://img.shields.io/badge/Focus-FullStack%20%2B%20AI-EC4899?style=for-the-badge" />
 </div>
 
+---
 
 ## 📄 About Me
 
@@ -26,6 +29,7 @@ I'm a final-year B.Tech Computer Science Engineering student with over a year of
 - 🤝 Freelance Full Stack Developer | Built 10+ Products
 - 🤓 Research Paper Published in Springer (LLM + Adaptive Learning)
 
+---
 
 ## 🚀 Technical Stack
 
@@ -41,34 +45,38 @@ I'm a final-year B.Tech Computer Science Engineering student with over a year of
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
+---
 
 ## 📚 Featured Projects
 
-### Talk2Hire 🔊 (AI Voice Interview Platform)
+### 🧠 Talk2Hire 🔊 — AI Voice Interview Platform
 > **Tech:** Next.js | Vapi AI | Gemini | Firebase | TailwindCSS
 
 - Simulates real-time voice interviews using LLMs and semantic feedback
 - Gemini + Vapi AI for question generation and dynamic analysis
 - Firebase Auth + Hosting + Firestore for seamless session management
 
-### SplitCircle 💸 (Expense Splitter with Smart Debt Optimization)
+### 💸 SplitCircle — Expense Splitter with Smart Debt Optimization
 > **Tech:** React | Next.js | Convex | Clerk | TailwindCSS
 
 - Real-time transaction syncing and debt graph simplification
 - Built a backend algorithm to reduce circular debt chains
 
-### IOB Secure Banking 🏦 (Zero Trust Multi-Factor Auth System)
+### 🏦 IOB Secure Banking — Zero Trust Multi-Factor Auth System
 > **Tech:** React | Supabase | JWT | ML (Voice/Face Recognition)
 
 - Implemented OTP, face, and voice biometric authentication
 - Used anomaly detection for fraud prevention in banking
 
+---
 
 ## 🎓 Publications & Awards
+
 - 🏆 **Best Paper Award** – Springer LNNS (ICICC 2025): Adaptive MCQ Generator with LLM Feedback
 - 🤝 Finalist – IOB Cybernova 2025 Hackathon (Top 10 / 96 teams)
 - 👨‍💼 Finalist – Smart India Hackathon 2024 (Top 30)
 
+---
 
 ## 👨‍🚀 Let's Connect
 
@@ -82,7 +90,18 @@ I'm a final-year B.Tech Computer Science Engineering student with over a year of
   <img src="https://komarev.com/ghpvc/?username=Jhasim9904&color=F97316&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jhasim9904&show_icons=true&theme=react&hide_border=false" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhasim9904&theme=react&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhasim9904&layout=compact&theme=react&hide_border=false" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom Animation" width="100%">
 </div>
