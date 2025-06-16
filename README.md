@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Integrated+Web+Projects;Generative+AI+%2B+LLMs;Hackathon+Finalist+%26+Team+Lead;MERN+%2B+Stack+Developer;Passionate+Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Integrated+Web+Projects;Generative+AI+%26+LLM's+Enthusiast;Hackathon+Finalist+%26+Team+Lead;MERN+%2B+Stack+Developer;Passionate+Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </div>
 
@@ -24,10 +24,11 @@
 
 I'm a final-year B.Tech Computer Science Engineering student with over a year of hands-on experience building web applications, leading hackathon teams, and shipping real-world AI-powered products. From full-stack web solutions to intelligent interfaces powered by LLMs, my goal is to build meaningful technology that solves problems and delivers results.
 
-- 📊 Finalist @ IOB Cybernova 2025 Hackathon
+- 📊 Finalist @ IOB Cybernova 2025 Hackathon (Top 10 / 96 teams)
 - 🔗 Smart India Hackathon National Finalist (Top 30)
 - 🤝 Freelance Full Stack Developer | Built 10+ Products
 - 🤓 Research Paper Published in Springer (LLM + Adaptive Learning)
+- 🔍 Currently exploring DSA using Java for performance-oriented coding
 
 ---
 
@@ -40,7 +41,7 @@ I'm a final-year B.Tech Computer Science Engineering student with over a year of
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-121011?style=for-the-badge&logo=git&logoColor=orange" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
