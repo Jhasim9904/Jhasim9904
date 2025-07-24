@@ -50,6 +50,13 @@ I'm a final-year B.Tech Computer Science Engineering student with over a year of
 
 ## 📚 Featured Projects
 
+### 🦷 ERP4Dentist — Dental ERP & Clinic Management System  
+> **Tech:** Next.js | Express.js | MongoDB | JWT | Bootstrap
+
+- Full-stack ERP system tailored for dental clinics with role-based access (Admin, Patient)
+- Modules include Appointments, Procedures, Lab Work, Observations, Prescriptions, and Notes
+- Built secure JWT-based authentication with dynamic routing and protected backend APIs
+
 ### 🧠 Talk2Hire 🔊 — AI Voice Interview Platform
 > **Tech:** Next.js | Vapi AI | Gemini | Firebase | TailwindCSS
 
@@ -63,11 +70,6 @@ I'm a final-year B.Tech Computer Science Engineering student with over a year of
 - Real-time transaction syncing and debt graph simplification
 - Built a backend algorithm to reduce circular debt chains
 
-### 🏦 IOB Secure Banking — Zero Trust Multi-Factor Auth System
-> **Tech:** React | Supabase | JWT | ML (Voice/Face Recognition)
-
-- Implemented OTP, face, and voice biometric authentication
-- Used anomaly detection for fraud prevention in banking
 
 ---
 
